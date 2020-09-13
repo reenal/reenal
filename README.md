@@ -26,7 +26,7 @@ Besides programming, I love to cook different cuisines as well like to travel an
 **A bit about me:**
 
 - 👯 I’m looking to collaborate on **DL and Ml Projects**
-- 🤔 I’m looking for help with **learning anything new!**
+- 😊 Open to **learning anything new!**
 - 💬 Ask me about **anything you feel like!**
 - 📫 How to reach me **reenalboddul@gmail.com**
 
