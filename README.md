@@ -5,7 +5,7 @@
 <br />
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reenal" alt="reenal" /> </p>
-I am a passionate data scientist from India .I hold master degree(Industrial Mathematics with Computer Applications), I am learning with the art of developing something useful for betterment of human being and support sustainability
+I am a passionate data scientist .I hold master degree(Industrial Mathematics with Computer Applications), I am learning with the art of developing something useful for betterment of human being and support sustainability
    🚀.
 <br>
 <img align="right" alt="GIF" src="https://github.com/reenal/reenal/blob/master/ailogo.gif" width="400px" />
