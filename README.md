@@ -14,6 +14,15 @@ I am a passionate data scientist from India .I hold master degree(Industrial Mat
 Besides programming, I love to cook different cuisines as well like to travel and explore new places, reading book 
 <br>
   
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+  
+  
 **A bit about me:**
 
 - 👯 I’m looking to collaborate on **DL and Ml Projects**
