@@ -32,7 +32,7 @@ Besides programming, I love to cook different cuisines as well like to travel an
 
 <br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=reenal&show_icons=true" alt="blurred-machine"/>
+<!--<img src="https://github-readme-stats.vercel.app/api?username=reenal&show_icons=true" alt="blurred-machine"/>-->
 </p>
 
 <p align="center">
