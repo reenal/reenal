@@ -5,7 +5,7 @@
 <br />
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reenal" alt="reenal" /> </p>
-"Passionate Data Scientist | Leveraging Git for Version Control 📊 | Creating Insights from Data 📈 | Collaborative Problem Solver 🤝 | Exploring the Data Universe, One Commit at a Time 🌌 | Let's Connect and Innovate Together! 🚀 #DataScience #Git #MachineLearning #DataScience #GitProfile #DataEnthusiast "
+Passionate Data Scientist | Leveraging Git for Version Control 📊 | Creating Insights from Data 📈 | Collaborative Problem Solver 🤝 | Exploring the Data Universe, One Commit at a Time 🌌 | Let's Connect and Innovate Together! 🚀 #DataScience #Git #MachineLearning #DataScience #GitProfile #DataEnthusiast.
    🚀.
 <br>
 <img align="right" alt="GIF" src="https://github.com/reenal/reenal/blob/master/ailogo.gif" width="400px" />
@@ -49,6 +49,20 @@ Besides programming, I love to cook different cuisines as well like to travel an
 [Instagram]: https://www.instagram.com/reenalzampal
 
 <br>
+
+
+
+<!--## 💰 You can support me if you liked my work by Donating
+  [[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/reenal)-->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=reenal&label=Profile%20views&color=0e75b6&style=flat" alt="reenal" /> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reenal&show_icons=true&locale=en&layout=compact" alt="reenal" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reenal&show_icons=true&locale=en" alt="reenal" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reenal&" alt="reenal" /></p>
+
 
 <p align="center">
 You have finally discovered my Github profile, so let's get connected!
