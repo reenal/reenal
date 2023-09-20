@@ -55,7 +55,7 @@ Besides programming, I love to cook different cuisines as well like to travel an
 <!--## 💰 You can support me if you liked my work by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/reenal)-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=entbappy&label=Profile%20views&color=0e75b6&style=flat" alt="reenal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=reenal&label=Profile%20views&color=0e75b6&style=flat" alt="reenal" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reenal&show_icons=true&locale=en&layout=compact" alt="reenal" /></p>
 
