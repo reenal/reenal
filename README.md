@@ -1,26 +1,23 @@
 <h1 align="center">Hi 👋, I'm Reenal Boddul</h1>
-<h3 align="center">Data Science Enthusiast ● Backend Developer</h3>
+<h3 align="center">Data Scientist ● Backend Developer</h3>
 
 <br />
 <br />
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reenal" alt="reenal" /> </p>
-I am a passionate data scientist .I hold master degree(Industrial Mathematics with Computer Applications), I am learning with the art of developing something useful for betterment of human being and support sustainability
+"Passionate Data Scientist | Leveraging Git for Version Control 📊 | Creating Insights from Data 📈 | Collaborative Problem Solver 🤝 | Exploring the Data Universe, One Commit at a Time 🌌 | Let's Connect and Innovate Together! 🚀 #DataScience #Git #MachineLearning #DataScience #GitProfile #DataEnthusiast "
    🚀.
 <br>
 <img align="right" alt="GIF" src="https://github.com/reenal/reenal/blob/master/ailogo.gif" width="400px" />
 
 <br/>
-Besides programming, I love to cook different cuisines as well like to travel and explore new places, reading book 
+### My Hobbies and interests:
+Besides programming, I love to cook different cuisines as well like to travel and explore new places, reading book ,cooking 
 <br>
   
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
   
   
 **A bit about me:**
@@ -35,17 +32,24 @@ Besides programming, I love to cook different cuisines as well like to travel an
 <!--<img src="https://github-readme-stats.vercel.app/api?username=reenal&show_icons=true" alt="blurred-machine"/>-->
 </p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/reenal-zampal-boddul-29273826/">	
-  <img align="center" alt="Reenal Boddul | LinkdeIn" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />	
-</a>	
-<a href="https://twitter.com/ReenalZampal">	
-  <img align="center" alt="Reenal Boddul | Twitter" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />	
-</a>	
-<a href="https://www.instagram.com/reenalzampal">	
-  <img align="center" alt="Reenal Boddul | Instagram" width="25px" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />	
-</a>
-</p>
+#### You can also find me on: 
+
+#### You can also find me on: 
+
+[<img align="left" alt="entbappy | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="entbappy | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
+[<img align="left" alt="entbappy | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
+[<img align="left" alt="entbappy | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" />][YouTube]
+[<img align="left" alt="entbappy | LeetCode" width="30px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />][LeetCode]
+                                                                                                                                                                       
+<br>
+
+<hr>
+
+[linkedin]: https://www.linkedin.com/in/reenal-zampal-boddul-29273826/
+[twitter]: https://twitter.com/ReenalZampal
+[Instagram]: https://www.instagram.com/reenalzampal
+
 <br>
 
 <p align="center">
