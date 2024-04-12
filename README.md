@@ -24,8 +24,13 @@
 - 👯 I’m looking to collaborate on **DL and Ml GenAI Projects**
 - 💬 Ask me about **anything you feel like!**
 <br/>
-My Hobbies and Ínterests:
-Besides programming, I love to cook different cuisines as well like to travel and explore new places, reading book  
+
+## Hobbies and Interests 🎨🌍📚🏏
+Besides programming, I have a variety of interests:
+- **Cooking**: I love experimenting with different cuisines and creating delicious dishes.
+- **Traveling**: Exploring new places, experiencing different cultures, and meeting new people excites me.
+- **Reading**: I enjoy getting lost in the pages of a good book, diving into various genres.
+- **Playing Cricket**: Whenever I get the chance, I love to hit the pitch and enjoy a good game of cricket.
 <br>
 
 # 💻 Tech Stack:
