@@ -13,7 +13,7 @@
 
 <div align="center">
   
-  <img src="https://giphy.com/embed/LMcB8XospGZO8UQq87" width="350" height="200"/>
+ <a href="https://giphy.com/gifs/Pluralsight-girl-woman-pluralsight-LMcB8XospGZO8UQq87"> <img src="https://giphy.com/embed/LMcB8XospGZO8UQq87" width="350" height="200"/></a>
 </div>
 
 
