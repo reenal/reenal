@@ -10,10 +10,12 @@
 
 🔮Passionate Data Scientist | ❖ Software Engineering| Leveraging Git for Version Control 📊 | ❖ Cloud Migration/Integration | Creating Insights from Data 📈 | Collaborative Problem Solver 🤝 | Exploring the Data Universe, One Commit at a Time 🌌 | Let's Connect and Innovate Together! 🚀 #DataScience #Git #MachineLearning #DataScience #GitProfile #DataEnthusiast.
 🚀.
+
 <div align="center">
   
-<iframe src="https://giphy.com/embed/LMcB8XospGZO8UQq87" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-girl-woman-pluralsight-LMcB8XospGZO8UQq87">_</a></p>
+  <img src="https://giphy.com/embed/LMcB8XospGZO8UQq87" width="350" height="200"/>
 </div>
+
 
 # 👋 About Me ❤️:
 
