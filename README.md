@@ -116,7 +116,7 @@ Besides programming, I have a variety of interests:
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
-![Reenal snake gif](https://github.com/reenal/reenal/blob/main/github-contribution-grid-snake.svg)
+![Reenal snake gif](https://github.com/reenal/reenal/blob/master/github-contribution-grid-snake.svg)
 
 <p align="center">
 You have finally discovered my Github profile, so let's get connected!
