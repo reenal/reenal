@@ -65,14 +65,16 @@ Besides programming, I love to cook different cuisines as well like to travel an
 
 <div align="center">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=reenal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-
-<img width="48%" alt="Reenal most used language board" src="https://github-readme-streak-stats.herokuapp.com/?reenal&theme=react&border=61dafb&hide_border=true" />
 <div>
-  
 
 <div style = "margin: 0 10px">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=reenal&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
+</div>
+
+<div style = "margin: 0 10px">
+[![](https://github-readme-streak-stats.herokuapp.com?user=reenal)](https://git.io/streak-stats)
 </div>
 </div>
 
