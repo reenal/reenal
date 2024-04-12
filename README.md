@@ -12,7 +12,7 @@
 🚀.
 <div align="center">
   
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="350" height="200"/>
+<iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </div>
 
 # 👋 About Me ❤️:
