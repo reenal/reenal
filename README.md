@@ -93,8 +93,13 @@ Besides programming, I have a variety of interests:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=reenal&theme=radical&hide_border=false)
 </div>
-</div>  -->
 
+<div align = "center" style = "margin: 0 10px">
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=reenal&theme=radical&hide_border=false)
+</div>
+
+</div>  -->
 <div style = "margin: 0 10px">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=reenal&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
